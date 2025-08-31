@@ -6,7 +6,7 @@ This repository serves as a demonstration of a complete MLOps pipeline, from dat
 🚀 Features
 State-of-the-Art Model: Utilizes YOLOv10n, a powerful and efficient object detection model.
 
-Custom-Trained: Fine-tuned on a large-scale, real-world traffic dataset (MTID).
+Custom-Trained: Fine-tuned on a large-scale, real-world traffic dataset.
 
 High Performance: Achieved 79.2% mAP50-95 on the validation set.
 
@@ -100,5 +100,12 @@ Bicycle
 0.859
 
 0.727
+
+🙏 Acknowledgements and Dataset
+This project would not have been possible without the high-quality Multi-View Traffic Intersection Dataset (MTID). All credit for the data collection and initial annotation goes to the original authors.
+
+Dataset Homepage: MTID - Multi-View Traffic Intersection Dataset
+
+Citation: Jensen, M. B., Møgelmose, A., & Moeslund, T. B. (2019). Presenting the Multi-View Traffic Intersection Dataset (MTID). In 2019 IEEE International Conference on Image Processing (ICIP).
 
 This project is a demonstration of skills in computer vision and deep learning, created as part of my M.Tech in CSE at VIT Vellore.
